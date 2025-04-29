@@ -54,7 +54,6 @@
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: [https://open.spotify.com/user/11153360645](https://open.spotify.com/user/317pl6zahu4xjv3yequansrahyny)
+[website]: http://santy.site/
+[instagram]: https://www.instagram.com/s4nt14699/
+[Spotify]: https://open.spotify.com/user/317pl6zahu4xjv3yequansrahyny
