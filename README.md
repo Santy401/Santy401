@@ -20,7 +20,6 @@
 
 [<img align="left" alt="Santy.dev" height="30px" src="" />][website]
 [<img align="left" alt="s4nt14699 | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="Santiago Castellar | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
 
