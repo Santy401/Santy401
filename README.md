@@ -60,3 +60,8 @@
 - 🇨🇴 Based in Cartagena, Colombia
 
 </details>
+
+<p align="center">
+  <img src="./xrl3y.gif" alt="xrl3y intro" width="400" />
+</p>
+
