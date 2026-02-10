@@ -1,6 +1,6 @@
 # Hi, I'm Santy 👋
 
-📍 **Colombia ↔ Cartagena** | 🚀 **Full-Stack Developer** | 🤖 **AI-Powered App Builder**
+📍 **Colombia ↔ Cartagena** | 🚀 **Full-Stack Developer** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -23,7 +23,6 @@
 ## What I'm Building
 
 - **Full-stack applications** using React, Vue, Next.js, and Node.js
-- **AI-powered features** to create personalized user experiences
 - **Productivity tools** that help people manage their time and tasks better
 - **Lightweight backends** with SQLite for efficient data management
 
