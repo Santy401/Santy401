@@ -18,6 +18,7 @@
 
 - 🎯 **Nexus** - Social platform unifying entertainment, interests, and gaming with AI-powered personalization and infinite short-form content
 - 📋 **RiosBackendTask** - Task management application with a focus on productivity and organization
+- 🧾 **Simplapp** - Complete billing system with integration with the Colombian DIAN (National Tax and Customs Directorate).
 
 ## What I'm Building
 
