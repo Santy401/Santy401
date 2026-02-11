@@ -17,7 +17,7 @@
 ## Current Projects
 
 - 🎯 **Nexus** - Social platform unifying entertainment, interests, and gaming with AI-powered personalization and infinite short-form content
-- 📋 **TaskRios** - Task management application with a focus on productivity and organization
+- 📋 **RiosBackendTask** - Task management application with a focus on productivity and organization
 
 ## What I'm Building
 
