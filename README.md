@@ -12,13 +12,12 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Young developer passionate about creating AI-powered applications that solve real problems. Currently building multiple projects focused on productivity, entertainment, and user experience.
+> Young developer focused on building practical applications that improve productivity and user experience.
 
 ## Current Projects
 
 - 🎯 **Nexus** - Social platform unifying entertainment, interests, and gaming with AI-powered personalization and infinite short-form content
 - 📋 **TaskRios** - Task management application with a focus on productivity and organization
-- 🚀 **AI-Enhanced App** - Developing an innovative application that leverages AI to improve user experience and solve current app disadvantages
 
 ## What I'm Building
 
@@ -35,7 +34,7 @@
 
 ## Philosophy
 
-> "Build what solves problems" - I focus on creating applications that make a real difference in people's lives, combining functionality with great user experience.
+> “Build what solves problems.”
 
 ## What I'm Learning
 
