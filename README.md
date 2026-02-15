@@ -28,10 +28,10 @@
 
 ## Tech Stack
 
-**Frontend:** React, Vue.js, Next.js, Tailwind CSS, Astro  
-**Backend:** Node.js, SQLite  
-**Tools:** Git, Docker, CasaOS, NGROK, Tailscale  
-**OS:** Arch Linux (optimized development environment)
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, SQLite, PostgreSQL  
+**Tools:** Git, Docker, Vscode, Dockploy, AWS  
+**My Linux:** Arch Linux (optimized development environment)
 
 ## Philosophy
 
