@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Santy 👋</h1>
-
-<p align="center">
-  <img src="./xrl3y.gif" alt="Santy intro" width="380" />
-</p>
-
 <p align="center">
   📍 <strong>Cartagena, Colombia</strong> &nbsp;·&nbsp; 🚀 <strong>Full-Stack Developer Junior</strong>
 </p>
