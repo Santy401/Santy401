@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Santy 👋</h1>
-
-<p align="center">
-  <img src="./xrl3y.gif" alt="Santy intro" width="380" />
-</p>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=%3E+System.init();%3E+Software+Engineer;%3E+Full-Stack+Development;%3E+Linux+Environments;%3E+DevOps+%7C+Networking;%3E+Connecting+to+local+network...;%3E+Connected+%3AD!" alt="Typing SVG" /></a></h1>
 
 <p align="center">
   📍 <strong>Cartagena, Colombia</strong> &nbsp;·&nbsp; 🚀 <strong>Mid-Level Full-Stack Engineer & Systems Enthusiast</strong>
@@ -77,5 +73,5 @@ I am a **Mid-Level Full-Stack Developer** passionate about building scalable web
 
 <p align="center">
   <br />
-  <em>"Driven by architectural patterns, powered by open-source, and building what solves real problems."</em>
+  <em>"Driven by secure architectures, powered by Linux, and building what solves real-world problems."</em>
 </p>
