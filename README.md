@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 <strong>Cartagena, Colombia</strong> &nbsp;·&nbsp; 🚀 <strong>Full-Stack Developer Junior</strong>
+  📍 <strong>Cartagena, Colombia</strong> &nbsp;·&nbsp; 🚀 <strong>Mid-Level Full-Stack Engineer & Systems Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -22,40 +22,48 @@
 
 ## 👤 About Me
 
-Building practical applications that solve real-world problems. Currently focusing on leveraging modern tech stacks to preserve and highlight cultural heritage in the Colombian Caribbean. 
+I am a **Mid-Level Full-Stack Developer** passionate about building scalable web applications, robust backend architectures, and managing the underlying infrastructure. My approach bridges the gap between clean frontend interfaces, high-performance APIs under solid architectural patterns, and reliable Linux systems.
 
-* ⚡ **Looking for:** Junior Full-Stack opportunities or frontend-focused roles.
-* 🧠 **Current Focus:** Optimizing backend performance and mastering Next.js.
+* 🏗️ **Software Architecture:** Focused on Domain-Driven Design (DDD) and clean code principles.
+* 🐧 **System & Networks:** Experienced in Linux environments, automation scripts, and networking fundamentals.
+* ⚡ **Core Focus:** Building resilient backend ecosystems and optimizing deployment workflows.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Core Technologies
+### 🌐 Frontend & Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,astro,tailwind" height="40" alt="Frontend & Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs" height="40" alt="Frontend Stack" />
 </p>
 
-### ⚙️ Backend & Infrastructure
+### ⚙️ Backend, Frameworks & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,git,docker,vercel,aws,linux" height="40" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" height="40" alt="Backend Stack" />
 </p>
 
-### 📚 Currently Learning & Exploring
+### 🛠️ DevOps, Systems & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mongodb,redis,kubernetes" height="40" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,bash,docker,networks" height="40" alt="DevOps and Systems" />
+</p>
+
+> *Note: Also experienced with Kali Linux, Ethernet/Networking layouts, and Hardware/Software troubleshooting.*
+
+### 📊 Multi-Paradigm & Polyglot Background
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,rust,java,cpp,cs,c,php" height="40" alt="Other Languages" />
 </p>
 
 ---
 
 ## 🚧 Featured Projects
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Tech Stack & Patterns | Links |
 | :--- | :--- | :--- | :--- |
-| 🏛️ **Casa Museo Pozón** | Website for a community museum in El Pozón documenting 4,000+ years of local history. | `Astro` `Tailwind` | [Live Demo 🔗](https://www.casapozonmuseo.site/) |
-| 🧾 **Simplapp** | Automated billing system integrated with Colombia's DIAN regulations. | `Next.js` `Node.js` `PostgreSQL` | [Repository 📁](#) |
-| 🎯 **Nexus** | Social platform featuring AI-powered personalization and short-form content feeds. | `React` `Node.js` `MongoDB` | [Repository 📁](#) |
-| 📋 **RiosBackendTask** | High-performance task management API focused on team productivity and clean workflows. | `TypeScript` `Node.js` `SQLite` | [Repository 📁](#) |
+| 🏛️ **Casa Museo Pozón** | Website for a community museum in El Pozón documenting 4,000+ years of local history. | `Next.js / Astro` `Tailwind` | [Live Demo 🔗](https://www.casapozonmuseo.site/) |
+| 🧾 **Simplapp** | Automated billing system integrated with Colombia's DIAN regulations using robust validation layers. | `NestJS` `TypeScript` `PostgreSQL` | [Repository 📁](#) |
+| 🎯 **Nexus** | Social platform featuring AI-powered personalization, scalable data flows, and short-form content. | `React` `Node.js` `DDD Architecture` | [Repository 📁](#) |
+| 📋 **RiosBackendTask** | High-performance task management API focused on team productivity and optimized queries. | `NestJS` `TypeScript` `Docker` | [Repository 📁](#) |
 
 ---
 
@@ -65,11 +73,9 @@ Building practical applications that solve real-world problems. Currently focusi
 | :--- | :--- | :--- |
 | **Fundamentos de Ingeniería de Software** | Platzi | [View Certificate 🔗](https://platzi.com/cursos/ingenieria/) |
 
-> 🔄 *Continuously learning. Updating this section as new milestones are completed.*
-
 ---
 
 <p align="center">
   <br />
-  <em>"Build what solves problems."</em>
+  <em>"Driven by architectural patterns, powered by open-source, and building what solves real problems."</em>
 </p>
