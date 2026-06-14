@@ -1,10 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=%3E+System.init();%3E+Software+Engineer;%3E+Full-Stack+Development;%3E+Linux+Environments;%3E+DevOps+%7C+Networking;%3E+Connecting+to+local+network...;%3E+Connected+%3AD!" alt="Typing SVG" /></a></h1>
 
 <p align="center">
-  📍 <strong>Cartagena, Colombia</strong> &nbsp;·&nbsp; 🚀 <strong>Mid-Level Full-Stack Engineer & Systems Enthusiast</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/Santy401">
     <img src="https://img.shields.io/badge/-@Santy401-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
