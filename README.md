@@ -1,43 +1,42 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=%3E+System.init();%3E+Software+Engineer;%3E+Full-Stack+Development;%3E+Linux+Environments;%3E+DevOps+%7C+Networking;%3E+Connecting+to+local+network...;%3E+Connected+%3AD!" alt="Typing SVG" /></a></h1>
----
 
-## 👤 About Me
+<h1 align="center">About Me</h1>
 
 I am a **Mid-Level Full-Stack Developer** passionate about building scalable web applications, robust backend architectures, and managing the underlying infrastructure. My approach bridges the gap between clean frontend interfaces, high-performance APIs under solid architectural patterns, and reliable Linux systems.
 
-* 🏗️ **Software Architecture:** Focused on Domain-Driven Design (DDD) and clean code principles.
-* 🐧 **System & Networks:** Experienced in Linux environments, automation scripts, and networking fundamentals.
-* ⚡ **Core Focus:** Building resilient backend ecosystems and optimizing deployment workflows.
+* **Software Architecture:** Focused on Domain-Driven Design (DDD) and clean code principles.
+* **System & Networks:** Experienced in Linux environments, automation scripts, and networking fundamentals.
+* **Core Focus:** Building resilient backend ecosystems and optimizing deployment workflows.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🌐 Frontend & Web Development
+### Frontend & Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs" height="40" alt="Frontend Stack" />
 </p>
 
-### ⚙️ Backend, Frameworks & Databases
+### Backend, Frameworks & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" height="40" alt="Backend Stack" />
 </p>
 
-### 🛠️ DevOps, Systems & Infrastructure
+### DevOps, Systems & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,bash,docker,networks" height="40" alt="DevOps and Systems" />
 </p>
 
 > *Note: Also experienced with Kali Linux, Ethernet/Networking layouts, and Hardware/Software troubleshooting.*
 
-### 📊 Multi-Paradigm & Polyglot Background
+### Multi-Paradigm & Polyglot Background
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,rust,java,cpp,cs,c,php" height="40" alt="Other Languages" />
 </p>
 
 ---
 
-## 🚧 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack & Patterns | Links |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +47,7 @@ I am a **Mid-Level Full-Stack Developer** passionate about building scalable web
 
 ---
 
-## 🎓 Certificates & Education
+## Certificates & Education
 
 | Course / Certification | Institution | Link |
 | :--- | :--- | :--- |
