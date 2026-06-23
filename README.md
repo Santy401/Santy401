@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F709&center=true&vCenter=true&width=500&lines=%3E+Full-Stack+Developer;%3E+Cybersecurity+Enthusiast;%3E+Backend+Systems;%3E+Linux+Environments;%3E+DevOps+%7C+Networking;%3E+Connected+%3AD" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=00BB00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Linux+Environments;Connected+%3AD!" alt="Typing SVG" /></a>
 </h1>
 
 <h1 align="center">Santiago Castellar García</h1>
