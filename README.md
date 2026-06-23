@@ -1,41 +1,46 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=%3E+Full-Stack+Developer;%3E+Backend+Systems;%3E+Linux+Enthusiast;%3E+Software+Architecture;%3E+DevOps+%7C+Networking;%3E+Connected+%3AD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F709&center=true&vCenter=true&width=500&lines=%3E+Full-Stack+Developer;%3E+Cybersecurity+Enthusiast;%3E+Backend+Systems;%3E+Linux+Environments;%3E+DevOps+%7C+Networking;%3E+Connected+%3AD" alt="Typing SVG" />
   </a>
 </h1>
 
 <h1 align="center">Santiago Castellar García</h1>
+
 <p align="center">
-  <strong>Full-Stack Developer • Linux Enthusiast • Backend & Infrastructure</strong>
+  <strong>Full-Stack Developer • Cybersecurity Enthusiast • Linux & Infrastructure</strong>
 </p>
 
 ---
 
 ## About Me
 
-I am a **Full-Stack-Developer** passionate about building scalable web applications, designing reliable backend systems, and understanding the infrastructure that powers modern software.
+I am a **Full-Stack Developer** passionate about building scalable web applications, designing reliable backend systems, and understanding the infrastructure that powers modern software.
 
-My goal is to become a software engineer capable of designing complete systems, from frontend experiences to APIs, databases, Linux environments, networking, and deployment workflows.
+Alongside software development, I actively study **Cybersecurity, Ethical Hacking, Linux systems, and networking fundamentals** to better understand how applications, systems, and networks operate and remain secure.
+
+My goal is to become a software engineer capable of designing complete, scalable, and secure systems — from frontend interfaces and backend APIs to infrastructure, networking, and security.
 
 ### Core Areas
 
+- Full-Stack Web Development
+- Backend Engineering & API Design
 - Software Architecture & Clean Code
-- Backend Development & API Design
 - Linux System Administration
 - Networking Fundamentals
-- Deployment & Infrastructure
-- Automation & Developer Tooling
+- Cybersecurity & Ethical Hacking
+- Infrastructure & Deployment
 
 ---
 
 ## Current Focus
 
 - Building production-ready backend systems
-- Learning Software Architecture & DDD
+- Software Architecture & DDD
 - Linux Administration
-- Networking & Infrastructure
-- Docker & Deployment Workflows
-- Performance Optimization
+- Docker & Infrastructure
+- Network Security
+- Ethical Hacking Methodologies
+- Secure Web Development
 
 ---
 
@@ -67,6 +72,36 @@ My goal is to become a software engineer capable of designing complete systems, 
 
 ---
 
+## Cybersecurity & Ethical Hacking
+
+### Knowledge Areas
+
+- OWASP Top 10
+- Web Application Security
+- Vulnerability Assessment
+- Secure Development Practices
+- Linux Security Fundamentals
+- Network Analysis
+- Reconnaissance & Enumeration
+- OSINT Fundamentals
+
+### Tools & Platforms
+
+- Kali Linux
+- Nmap
+- Wireshark
+- Metasploit Framework
+- Burp Suite
+- Gobuster
+- Nikto
+- Linux CLI Tooling
+
+### Security Philosophy
+
+Understanding how systems can be attacked helps me build software that is more secure, resilient, and reliable.
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
@@ -89,23 +124,28 @@ My goal is to become a software engineer capable of designing complete systems, 
 
 ## Certifications
 
-| Certification | Institution |
-|--------------|-------------|
-| Fundamentos de Ingeniería de Software | Platzi |
+### Cybersecurity & Ethical Hacking
+
+- Ethical Hacking & Pentesting Learning Path
+- OWASP Top 10 Fundamentals
+- Network Security Fundamentals
+- Linux Security Fundamentals
+
+<img src="certificates/Images/Screenshot 2026-06-23 at 16-16-28 Diploma - hacking-etico-y-pentesting - diploma-hacking-etico-y-pentesting.pdf.png" alt="Ethical Hacking Certificate"/>
 
 ---
 
 ## Philosophy
 
-> I enjoy understanding software beyond the frontend layer — from APIs and databases to Linux systems, networking, and infrastructure.
+> I enjoy understanding software beyond the frontend layer — from APIs and databases to Linux systems, networking, and cybersecurity.
 >
-> My objective is to design complete, scalable, and reliable systems that solve real-world problems.
+> My objective is to design complete, scalable, secure, and reliable systems that solve real-world problems.
 
 ---
 
 ## Terminal
 
-```
+```bash
 $ whoami
 
 Santiago Castellar García
@@ -113,14 +153,22 @@ Santiago Castellar García
 Role:
   Full-Stack Developer
 
-Focus:
-  Backend Development
-  Linux Systems
+Interests:
+  Cybersecurity
+  Linux
+  Networking
   Software Architecture
-  Networking & Infrastructure
+
+Tools:
+  React
+  Node.js
+  Docker
+  Nmap
+  Wireshark
+  Metasploit
 
 Status:
-  Learning, Building, Improving.
+  Building. Learning. Securing.
 ````
 
 ---
@@ -134,7 +182,6 @@ Status:
 
 <p align="center">
   <em>
-    "Driven by Linux, powered by curiosity, and focused on building reliable systems."
+    "Driven by Linux, powered by curiosity, and focused on building secure and reliable systems."
   </em>
 </p>
-
