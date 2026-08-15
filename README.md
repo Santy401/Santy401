@@ -100,23 +100,11 @@ Understanding how systems can be attacked helps me build software that is more s
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Santy401&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy401&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Featured Projects
 
 | Project | Description | Technologies |
 |----------|-------------|-------------|
 | 🏛️ **Casa Museo Pozón** | Community museum website documenting over 4,000 years of local history. | Next.js · Astro · Tailwind |
-| 🧾 **Simplapp** | Automated billing platform aligned with Colombian DIAN regulations. | NestJS · TypeScript · PostgreSQL |
-| 🎯 **Nexus** | AI-powered social platform focused on personalization and scalability. | React · Node.js · DDD |
-| 📋 **RiosBackendTask** | High-performance task management API with optimized queries. | NestJS · TypeScript · Docker |
 
 ---
 
