@@ -44,28 +44,8 @@ My goal is to become a software engineer capable of designing complete, scalable
 
 ## Tech Stack
 
-### Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs" height="45" />
-</p>
-
-### Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" height="45" />
-</p>
-
-### DevOps, Systems & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,bash,docker" height="45" />
-</p>
-
-### Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,cpp,cs" height="45" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,astro,nodejs,nestjs,postgres,prisma,php,flutter,linux,arch,ubuntu,debian,bash,docker,kubernetes,vim,github,obsidian,go,java,cpp,cs" height="100" />
 </p>
 
 ---
