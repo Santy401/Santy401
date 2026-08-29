@@ -1,51 +1,47 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=00BB00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Linux+Environments;Connected+%3AD!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=00BB00&center=true&vCenter=true&width=435&lines=Infrastructure+Builder;Cybersecurity+Enthusiast;Linux+Environment;Connected+%3AD!" alt="Typing SVG" /></a>
 </h1>
 
-<h1 align="center">Santiago Castellar García</h1>
+<h1 align="center">Santiago Castellar Garcia</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Cybersecurity Enthusiast • Linux & Infrastructure</strong>
+  <strong>Infrastructure & Security</strong>
 </p>
 
 ---
 
 ## About Me
 
-I am a **Full-Stack Developer** passionate about building scalable web applications, designing reliable backend systems, and understanding the infrastructure that powers modern software.
+I am a **16-year-old infrastructure builder and cybersecurity enthusiast** based in Colombia. I run a home lab on Ubuntu with Docker Swarm, Tailscale, Traefik, and ESP32-based projects — learning by building real systems.
 
-Alongside software development, I actively study **Cybersecurity, Ethical Hacking, Linux systems, and networking fundamentals** to better understand how applications, systems, and networks operate and remain secure.
-
-My goal is to become a software engineer capable of designing complete, scalable, and secure systems — from frontend interfaces and backend APIs to infrastructure, networking, and security.
+I study **network security, ethical hacking, and Linux administration** to understand how systems break and how to make them resilient. My goal is to design **complete, secure, and reliable infrastructure** — from low-level embedded systems to container orchestration and network defense.
 
 ### Core Areas
 
-- Full-Stack Web Development
-- Backend Engineering & API Design
-- Software Architecture & Clean Code
-- Linux System Administration
-- Networking Fundamentals
+- Linux System Administration & Hardening
+- Network Security & Monitoring
+- Docker & Container Orchestration
+- ESP32 & Low-Level Embedded Systems
 - Cybersecurity & Ethical Hacking
-- Infrastructure & Deployment
+- Infrastructure as Code
 
 ---
 
 ## Current Focus
 
-- Building production-ready backend systems
-- Software Architecture & DDD
-- Linux Administration
-- Docker & Infrastructure
-- Network Security
-- Ethical Hacking Methodologies
-- Secure Web Development
+- Homelab Architecture & Security Hardening
+- Docker Swarm + Traefik Reverse Proxy
+- ESP32 Embedded Projects
+- Tailscale VPN & Network Mesh
+- Linux Firewall Management (UFW / iptables)
+- Ethical Hacking & Penetration Testing
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,astro,nodejs,nestjs,postgres,prisma,php,flutter,linux,arch,ubuntu,debian,bash,docker,kubernetes,vim,github,obsidian,go,java,cpp,cs" height="100" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,linux,arch,ubuntu,debian,bash,docker,vim,github,obsidian,cpp" height="80" />
 </p>
 
 ---
@@ -57,9 +53,8 @@ My goal is to become a software engineer capable of designing complete, scalable
 - OWASP Top 10
 - Web Application Security
 - Vulnerability Assessment
-- Secure Development Practices
 - Linux Security Fundamentals
-- Network Analysis
+- Network Analysis & Traffic Inspection
 - Reconnaissance & Enumeration
 - OSINT Fundamentals
 
@@ -72,11 +67,11 @@ My goal is to become a software engineer capable of designing complete, scalable
 - Burp Suite
 - Gobuster
 - Nikto
-- Linux CLI Tooling
+- UFW / iptables
 
 ### Security Philosophy
 
-Understanding how systems can be attacked helps me build software that is more secure, resilient, and reliable.
+Understanding how systems can be attacked helps me build infrastructure that is more secure, resilient, and reliable.
 
 ---
 
@@ -84,7 +79,9 @@ Understanding how systems can be attacked helps me build software that is more s
 
 | Project | Description | Technologies |
 |----------|-------------|-------------|
-| 🏛️ **Casa Museo Pozón** | Community museum website documenting over 4,000 years of local history. | Next.js · Astro · Tailwind |
+| **ESP32 PPP Bridge** | WiFi-to-Serial-PPP bridge for headless server access over USB. | C++ |
+| **Omarchy Dotfiles** | Automated Arch Linux + Hyprland system setup with full dev environment. | Shell |
+| **Casa Museo Pozon** | Community museum website preserving Afro-Caribbean identity through pedagogy. | Astro · React · Tailwind |
 
 ---
 
@@ -103,9 +100,9 @@ Understanding how systems can be attacked helps me build software that is more s
 
 ## Philosophy
 
-> I enjoy understanding software beyond the frontend layer — from APIs and databases to Linux systems, networking, and cybersecurity.
+> I enjoy understanding systems beyond the surface — from embedded firmware and container orchestration to Linux hardening and network defense.
 >
-> My objective is to design complete, scalable, secure, and reliable systems that solve real-world problems.
+> My objective is to design infrastructure that is secure, reliable, and built to last.
 
 ---
 
@@ -114,40 +111,38 @@ Understanding how systems can be attacked helps me build software that is more s
 ```bash
 $ whoami
 
-Santiago Castellar García
+Santiago Castellar Garcia
 
 Role:
-  Full-Stack Developer
+  Infrastructure Builder
 
 Interests:
   Cybersecurity
   Linux
   Networking
-  Software Architecture
+  Embedded Systems
 
-Tools:
-  React
-  Node.js
-  Docker
-  Nmap
-  Wireshark
-  Metasploit
+Stack:
+  Ubuntu 24.04 / Docker Swarm / Traefik
+  Tailscale / UFW / Pi-hole
+  ESP32 / C++ / Python
+  Astro / React / Tailwind
 
 Status:
   Building. Learning. Securing.
-````
+```
 
 ---
 
 ## Contact
 
-* GitHub: **@Santy401**
-* Portfolio: **Coming Soon**
+- GitHub: **@Santy401**
+- Portfolio: **Coming Soon**
 
 ---
 
 <p align="center">
   <em>
-    "Driven by Linux, powered by curiosity, and focused on building secure and reliable systems."
+    "Built on Linux, secured by design, driven by curiosity."
   </em>
 </p>
